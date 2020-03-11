@@ -1,0 +1,2 @@
+Tables
+1:- Comapany_List(Company_Id[Int20], Company_Name[varchar50])
